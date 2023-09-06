@@ -6,9 +6,14 @@
 🚀 Me llamo Jassed, soy un apasionado por la programación y el desarrollo web, estoy en el inicio de mi carrera como desarrollador web Full Stack. Mi objetivo es aprender constantemente y contribuir al mundo digital con soluciones creativas y funcionales.
 
 ### Habilidades
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Herramientas**: Visual Studio Code
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Formación
 
@@ -19,11 +24,15 @@ Me encuentro en proceso de formación con **Factoria F5** y **Orange Digital Cen
 Actualmente trabajando en proyectos personales y colaborativos para mejorar mis habilidades y crear experiencias web atractivas. Siempre dispuesto a aprender y crecer en el emocionante mundo del desarrollo web.
 
 ### Contacto
-📧 Puedes contactarme a través de mi correo electrónico: jassedgmartinez@gmail.com
+📧 Puedes contactarme a través de mi correo electrónico: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jassedgmartinez@gmail.com)
 
-📱 Conéctate conmigo en LinkedIn: www.linkedin.com/in/jassed-martinez-492b5b277
+
+
+📱 Conéctate conmigo en LinkedIn:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jassed-martinez-492b5b277)
+
 
 📫 ¡Hablemos de código!
+
 
 
 
