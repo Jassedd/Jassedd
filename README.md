@@ -17,7 +17,7 @@
 
 ### Formación
 
-Me encuentro en proceso de formación con **Factoria F5** y **Orange Digital Center**, donde estoy adquiriendo conocimientos y habilidades en desarrollo web.
+Siempre estoy en busqueda de conocimientos y habilidades en desarrollo web.
 
 ### Proyectos
 
